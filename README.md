@@ -3,6 +3,11 @@
 telegram红包牛牛，飞机红包牛牛，飞机红包16倍牛牛
 
 
+![image](https://github.com/user-attachments/assets/870054fa-3bc4-40de-a2ec-dd89e5f566c8)
+
+后台图片
+![image](https://github.com/user-attachments/assets/1fd243aa-f133-4541-ae25-9d7d6b7eb463)
+
 
 ## 游戏玩法
 
